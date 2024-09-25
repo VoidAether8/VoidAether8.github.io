@@ -1,55 +1,27 @@
-body {
-    color: #000000;
-    background-color: #E6E6E6;
+.bgc-primary{
+    color: black;
+    background-color: #C1AE9F;
 }
 
-.navbar {
-    color: #66523D;
-    background-color: #CCA37A;
-    font-size: xx-large;
-    font-family: Arial, Helvetica, sans-serif;
-    text-decoration: none;
-    margin-left: auto;
-    margin-right: auto;
-    border-radius: 40px;
+.bgc-secondary{
+    color: black;
+    background-color: #89937C;
 }
 
-.navelement{
-    color: #66523D;
-    font-size: x-large;
-    font-family: Arial, Helvetica, sans-serif;
-    text-decoration: none;
+.bgc-tertiary, .nav-pills .nav-link.active{
+    color: white;
+    background-color: #586BA4;
 }
 
-.title{
-    color: #66523D;
-    background-color: #CCA37A;
-    font-family: Arial, Helvetica, sans-serif;
-    text-align: center;
-    border-radius: 40px;
+.bgc-light{
+    background-color: whitesmoke;
 }
 
-.header{
-    color: #66523D;
-    background-color: #CCA37A;
-    font-family: Arial, Helvetica, sans-serif;
-    text-align: center;
-    border-radius: 40px;
+.fs-7{
+    font-size: small;
 }
 
-.paragraph{
-    color: #666666;
-    background-color: #CCCCCC;
-    font-size: large;
-    font-family: Arial, Helvetica, sans-serif;
-    text-decoration: none;
-    text-align: justify;
-}
-
-.intro{
-    color: #66523D;
-    background-color: #CCA37A;
-    font-family: Arial, Helvetica, sans-serif;
-    text-align: justify;
-    border-radius: 40px;
+.nav-pills .nav-link:hover{
+    color: black;
+    background-color: #ffffff80;
 }
