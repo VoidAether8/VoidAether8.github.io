@@ -1,29 +1,22 @@
 .bgc-primary{
-    color: black;
-    background-color: #C1AE9F;
-}
-
-.bgc-primary-dark{
-    background-color: #835c3f;
+    color: whitesmoke;
+    background-color: #292F36;
 }
 
 .bgc-secondary{
-    color: black;
-    background-color: #89937C;
+    background-color: #7EA3CC;
 }
 
 .bgc-tertiary, .nav-pills .nav-link.active{
-    color: white;
-    background-color: #586BA4;
+    background-color: #B3001B;
 }
 
 .bgc-light{
     background-color: whitesmoke;
 }
 
-.bgc-mech{
+.textc-light{
     color: whitesmoke;
-    background-color: #292F36;
 }
 
 .fs-7{
